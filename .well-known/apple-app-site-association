@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2SA2447AYA.br.com.userede.enterprise.homolog",
+                "paths": [
+                    "/m/*",
+                    "/usuario/*",
+                    "NOT /pagamentos/*"
+                ]
+            }
+        ]
+    }
+}
